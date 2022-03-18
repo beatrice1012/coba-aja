@@ -3,4 +3,5 @@ betris rencana
 untuk pemprograman jaringan
 -php
 untuk web
-
+-codeigniter3
+python
