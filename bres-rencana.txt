@@ -3,4 +3,6 @@ betris rencana
 untuk pemprograman jaringan
 -php
 untuk web
+-python
+untuk pemprograman jaringan
 
