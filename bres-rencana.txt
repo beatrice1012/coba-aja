@@ -2,4 +2,5 @@ betris rencana
 -belajar java
 untuk pemprograman jaringan
 -php
+untuk web
 
