@@ -4,5 +4,5 @@ untuk pemprograman jaringan
 -php
 untuk web
 -codeigniter3
-python
--pemprograman jaringan juga
+-python
+untuk pemprograman jaringan
